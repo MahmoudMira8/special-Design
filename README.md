@@ -1,6 +1,6 @@
 # Personal Website
 
-## built by HTML, CSS, JS 
+## built responsive website by HTML, CSS, JS 
 
 The project is made using Flex-box 
 
